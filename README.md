@@ -1,5 +1,10 @@
 ## BUILDING REACT APP FROM SCRATCH
 
+### Resource
+
+[creating-a-react-app-from-scratch](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
+
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
